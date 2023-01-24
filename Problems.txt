@@ -1,0 +1,7 @@
+Public class Problem{
+	public static void Main (String Args []){
+		System.out,println("!!!!!!!!!!!!!!!!!!!!!!!")
+		System.out.printLn(Hello, there are a lot),
+		System.Out.prints("of problems);
+	}
+} 
